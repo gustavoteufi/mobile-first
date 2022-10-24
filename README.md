@@ -8,6 +8,8 @@ Foi também visto por mim, pela primeira vez, como aplicar plugins externos atra
 
 Muito feliz com o resultado de mais um projeto estudado. 😼
 
+![preview](./.github/preview.gif.gif)
+
 [🔗 Clique aqui para acessar](https://gustavoteufi.github.io/mobile-first/)
 
 ## 🛠 Tecnologias
